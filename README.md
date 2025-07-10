@@ -1,6 +1,3 @@
-# Calculo-da-M-dia-Final---Java
-Cálculo da Média Final - Java
-
 # 📊 Cálculo da Média Final - Java
 
 Este projeto foi desenvolvido durante meus estudos no **curso Java Development de 60 horas da FIAP**, como parte do aprendizado de lógica de programação e manipulação de dados com entrada pelo teclado.
@@ -23,7 +20,9 @@ O sistema solicita os dados do usuário pelo terminal e aplica regras de decisã
 
 ## 💻 Ferramentas e Tecnologias Utilizadas
 
-### ☕ Java
+### ☕ Java  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="100" />
+
 - Linguagem principal usada no projeto.
 - Aplicação de estruturas básicas como variáveis, entrada de dados e condicionais.
 
@@ -32,7 +31,8 @@ O sistema solicita os dados do usuário pelo terminal e aplica regras de decisã
 - Pratico exercícios como este para evoluir como desenvolvedor Java júnior.
 
 ### 🧠 IDE: IntelliJ IDEA  
-![IntelliJ IDEA](https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png)
+<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="80" />
+
 - Ambiente utilizado para desenvolver, compilar e testar o código com eficiência.
 
 ---
